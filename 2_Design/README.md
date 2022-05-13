@@ -15,3 +15,6 @@
 ## Block Diagram
 
 ![image](https://github.com/tejas-rv/M3_WiperControlSystem/blob/main/2_Design/BlockDiagram.png)
+
+## State Diagram
+![image](https://github.com/tejas-rv/M3_WiperControlSystem/blob/main/2_Design/StateDiagram.png)
