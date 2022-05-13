@@ -7,4 +7,5 @@ Clear vision for the car driver is an important prerequisite for safety in road 
 The wiper faithfully keeps the windscreen clear, moving back and forth across the windscreen countless times as they sweep the water away. 
 Traditional windshield wipers are actuated by a single constant speed motor related to the wipers by a system of connecting rods, often called the wiper arm.
 
+![image](https://github.com/tejas-rv/M3_WiperControlSystem/blob/main/1_Requirements/Wiper.png)
 
