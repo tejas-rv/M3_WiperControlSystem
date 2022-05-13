@@ -14,4 +14,4 @@
 
 ## Block Diagram
 
-![image]()
+![image](https://github.com/tejas-rv/M3_WiperControlSystem/blob/main/2_Design/BlockDiagram.png)
