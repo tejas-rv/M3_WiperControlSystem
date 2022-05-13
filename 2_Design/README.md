@@ -10,5 +10,8 @@
 
 ## Flow Chart
 
-![image](https://app.creately.com/d/49qRgbaWhIj/edit)
+![image](https://github.com/tejas-rv/M3_WiperControlSystem/blob/main/2_Design/FlowChart.png)
 
+## Block Diagram
+
+![image]()
